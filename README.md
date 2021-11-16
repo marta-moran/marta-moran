@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning HTML5, CSS3, JavaScript and PHP 👩‍💻
+### I’m currently learning HTML5, CSS3, JavaScript and PHP 👩‍💻
 
 <!--
 **marta-moran/marta-moran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
