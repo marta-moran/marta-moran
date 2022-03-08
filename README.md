@@ -1,5 +1,6 @@
-### Hola!!👋
-### Actualmente estoy cursando Desarrollo de Aplicaciones Web. Estoy aprendiendo HTML5, CSS3, JavaScript y PHP 👩‍💻
+### 👋Hola!!
+### 🌱Actualmente estoy cursando Desarrollo de Aplicaciones Web. 
+### 👩‍💻Estoy aprendiendo HTML5, CSS3, Java, JavaScript y PHP.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marta-moran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### [![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=marta-moran&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
