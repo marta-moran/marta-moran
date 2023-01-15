@@ -1,6 +1,42 @@
+# ¡Hola! Soy Marta 👋️
+Soy desarrolladora full-stack. Me gusta crear aplicaciones rápidas, fáciles de utilizar, bonitas y desarrolladas con las mejores prácticas. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marta-moran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### [![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=marta-moran&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# Stack actual 👩‍💻️
+- Node.js
+- React.js
+- MongoDB
+- Express.js
+
+# Lenguajes de programación 💻️
+- JavaScript (ES6)
+- Java
+- PHP
+
+# Desarrollo front 🚀️
+- React.js
+- HTML5
+- CSS3
+- Next.js
+
+# Desarrolllo back ⚙️
+- Node.js
+- Express.js
+- MongoDB
+- SQL Databases
+- Moongose
+
+# Otras herramientas y tecnologías 🛠️
+- Linux
+- Git
+- GitHub
+- Postman
+- Vercel
+
+# También puedes encontrarme en
+[Linkedin](https://www.linkedin.com/in/martamoranl)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marta-moran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### [![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=marta-moran&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
